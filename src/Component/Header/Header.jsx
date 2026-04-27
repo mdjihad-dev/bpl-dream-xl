@@ -1,7 +1,7 @@
 import headerLogo from '../../assets/logo.png';
 import DoubleDollar from '../../assets/DoubleDollar.png';
 
-const Header = () => {
+const Header = ({coin}) => {
     return (
       <div className="container mx-auto navbar bg-base-100 shadow-sm">
         <div className="flex-1">
@@ -25,7 +25,7 @@ const Header = () => {
         </div>
         <div className="ml-3">
           <button className="btn">
-            Coins <img className='ml-2' src={DoubleDollar} alt="DoubleDollar image" />
+           {coin} Coins <img className='ml-2' src={DoubleDollar} alt="DoubleDollar image" />
           </button>
         </div>
       </div>

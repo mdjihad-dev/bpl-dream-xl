@@ -1,4 +1,4 @@
-import React from 'react';
+
 import bannerMain from '../../assets/banner-main.png'
 import bgShadow from '../../assets/bg-shadow.png'
 
