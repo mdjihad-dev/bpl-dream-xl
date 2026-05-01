@@ -45,6 +45,7 @@ const AvailablePlayer = ({ fetchData, coin, setCoin }) => {
             ></PlayerCard>
           ))}
         </div>
+        
       ) : (
         <Selected
           setSelected={setSelected}

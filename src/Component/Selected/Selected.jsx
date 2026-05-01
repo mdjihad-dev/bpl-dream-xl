@@ -5,8 +5,7 @@ import { MdDelete } from 'react-icons/md';
 const Selecteds = ({ selected, setSelected, coin, setCoin}) => {
 
     const handleBtnClick = (player) => {
-      const filtered = selected.filter(
-        (fiterPlayer) => fiterPlayer.name !== player.name,
+      const filtered = selected.filter((fiterPlayer) => fiterPlayer.name !== player.name,
       );
 
       setSelected(filtered);
@@ -19,7 +18,7 @@ const Selecteds = ({ selected, setSelected, coin, setCoin}) => {
 
         
         {selected.length === 0 ? (
-          <div className="w-full min-h-40 flex flex-col items-center justify-center">
+          <div className="w-full min-h-56 flex flex-col items-center justify-center">
             <FaFile className="w-13 h-auto" />
             <h1 className="text-xl font-semibold text-gray-900">No Data</h1>
             <p className="text-md font-semibold">
