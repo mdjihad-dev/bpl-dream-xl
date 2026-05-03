@@ -1,16 +1,61 @@
-# React + Vite
+# 🎯 BPL Dream XL
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Live Site: https://bpl-dream-xl.netlify.app
 
-Currently, two official plugins are available:
+## 📌 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+BPL Dream XL is a modern and responsive web application built using React. This project focuses on creating a clean UI and smooth user experience. It showcases digital tools or product-based features in a structured and visually appealing way.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Technologies Used
 
-## Expanding the ESLint configuration
+* ⚛️ React.js
+* 🎨 Tailwind CSS
+* 🌼 DaisyUI
+* 🧩 HTML5
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+* Responsive design for all devices 📱💻
+* Clean and modern UI 🎨
+* Reusable components using React ♻️
+* Interactive user interface ⚡
+* Organized code structure 📂
+
+---
+
+## 📂 Project Structure
+
+* Components-based architecture
+* Separate files for UI and logic
+* Easy to maintain and scalable
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+npm install
+npm run dev
+```
+
+---
+
+## 🙌 Author
+
+Developed by **Md Jihad**
+
+---
+
+## 📢 Notes
+
+This project is created for learning and practice purposes. Future improvements and features may be added.
+
+---
