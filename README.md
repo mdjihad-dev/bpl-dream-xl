@@ -1,61 +1,42 @@
-# 🎯 BPL Dream XL
+# BPL Dream XL
 
-🔗 Live Site: https://bpl-dream-xl.netlify.app
+A responsive React project built around a football-focused team-building experience. The project focuses on component-based UI, reusable layouts, and a clean responsive interface.
 
-## 📌 Project Overview
+## Live Demo
 
-BPL Dream XL is a modern and responsive web application built using React. This project focuses on creating a clean UI and smooth user experience. It showcases digital tools or product-based features in a structured and visually appealing way.
+https://bpl-dream-xl.netlify.app
 
----
+## Tech Stack
 
-## 🚀 Technologies Used
+- React
+- React DOM
+- React Icons
+- Tailwind CSS
+- DaisyUI
+- Vite
+- ESLint
 
-* ⚛️ React.js
-* 🎨 Tailwind CSS
-* 🌼 DaisyUI
-* 🧩 HTML5
+## Highlights
 
----
+- Responsive interface for different screen sizes
+- Reusable React components
+- Tailwind CSS based styling
+- Interactive UI elements
+- Clean project structure
 
-## ✨ Features
+## Getting Started
 
-* Responsive design for all devices 📱💻
-* Clean and modern UI 🎨
-* Reusable components using React ♻️
-* Interactive user interface ⚡
-* Organized code structure 📂
-
----
-
-## 📂 Project Structure
-
-* Components-based architecture
-* Separate files for UI and logic
-* Easy to maintain and scalable
-
----
-
-## ⚙️ Installation & Setup
-
-Follow these steps to run the project locally:
+Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/mdjihad-dev/bpl-dream-xl.git
+cd bpl-dream-xl
 npm install
 npm run dev
 ```
 
----
+The development server will start with Vite.
 
-## 🙌 Author
+## Project Focus
 
-Developed by **Md Jihad**
-
----
-
-## 📢 Notes
-
-This project is created for learning and practice purposes. Future improvements and features may be added.
-
----
+This project helped me practice building a React interface with modern Tailwind CSS tooling, reusable components, and responsive layouts.
